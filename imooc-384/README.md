@@ -24,6 +24,7 @@
 * [3-2 配置 React 开发环境](./ch03-02)
 * [3-3 useState Hook](./ch03-03)
 * [3-4 useEffect 不需要清除的 Effect](./ch03-04/)
+* [3-5 useEffect 需要清除的 Effect](./ch03-05/)
 
 
 ## Ref
