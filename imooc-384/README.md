@@ -27,6 +27,7 @@
 * [3-5 useEffect 需要清除的 Effect](./ch03-05/)
 * [3-6 useEffect 可控 effect](./ch03-06/)
 * [3-7 自定义 Hook（一）](./ch03-07/)
+* [3-8 HOC 的概念和缺点](./ch03-08/)
 
 
 ## Ref
