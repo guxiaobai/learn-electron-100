@@ -32,6 +32,11 @@
 * [3-10 Hook 规则和其他 Hook](./ch03-10/)
 
 
+## 第4章 双剑合璧与庖丁解牛
+
+* [4-3 配置开发环境（一）](./ch04-03/)
+
+
 ## Ref
 
 * <https://coding.imooc.com/class/chapter/384.html>
