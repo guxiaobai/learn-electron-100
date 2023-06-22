@@ -13,6 +13,8 @@
 *  [2-5 进程间的通信](./ch02-05)
 *  [2-6 使用 IPC 进行通信](./ch02-06)
 *  [2-7 使用 remote 实现跨进程访问](./ch02-07)
+*  2-8 新版 electron 出现 remote undefined 错误
+*  2-9 升级到 electron 7.0 以上的注意事项
 
 
 ## Ref
