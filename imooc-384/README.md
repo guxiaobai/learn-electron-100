@@ -23,6 +23,7 @@
 * [3-1 React 简介和缘起](./ch03-01)
 * [3-2 配置 React 开发环境](./ch03-02)
 * [3-3 useState Hook](./ch03-03)
+* [3-4 useEffect 不需要清除的 Effect](./ch03-04/)
 
 
 ## Ref
