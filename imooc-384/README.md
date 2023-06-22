@@ -17,6 +17,12 @@
 *  2-9 升级到 electron 7.0 以上的注意事项
 
 
+## 第3章 神奇的 React
+
+
+* [3-1 React 简介和缘起](./ch03-01)
+
+
 ## Ref
 
 * <https://coding.imooc.com/class/chapter/384.html>
